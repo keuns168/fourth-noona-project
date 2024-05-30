@@ -1,0 +1,18 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .box {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    color: white;
+  }
+
+  .sub-main {
+    display:flex;
+  }
+  .mar {
+    margin-right: 5px;
+  }

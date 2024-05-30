@@ -1,0 +1,21 @@
+.box1 {
+    background-color: purple;
+    height:100px;
+    width:100px;
+    color:white;
+}
+
+.box2 {
+    background-color: black;
+    height:100px;
+    width:100px;
+    color:white;
+    /* position:absolute;
+    left: 50px;
+    top: 50px; */
+ 
+    position: relative;
+  left: 50px;
+  bottom: 50px;
+
+}
